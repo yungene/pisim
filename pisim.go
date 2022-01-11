@@ -11,7 +11,7 @@ import (
 	"sort"
 	"text/template"
 
-	"github.com/basil-conto/pifra"
+	"github.com/yungene/pifra"
 )
 
 var exists = struct{}{}

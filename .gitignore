@@ -1,5 +1,6 @@
 # Executable
 pisim
+*.exe
 
 # GraphViz
 dot/*.pdf
